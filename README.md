@@ -18,9 +18,12 @@
 </body>
 </html>
 
+- [x] Add changelog
+- [x] Add back to top links
+- [ ] Add Additional Templates
+      
   * About the project
-  * About the project
-  * About the project
+  
     ********************
     --------------------
     Git clone: https://github.com/rustammagomedovv41-oss/first-project.git
