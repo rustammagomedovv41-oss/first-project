@@ -8,6 +8,7 @@
 <head>
     <meta charset="UTF-8">
     <title>Моя первая страница</title>
+    !(Product name Screen Shot)[]
 </head>
 <body>
     <h1>Привет, мир!</h1>
