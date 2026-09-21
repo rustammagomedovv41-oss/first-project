@@ -24,7 +24,7 @@
 
 - [x] Add changelog
 - [x] Add back to top links
-<-- - [ ] Add Additional Templates... --> 
+[comment] (# Add Additional Templates...) 
       
   * About the project
   
