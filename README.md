@@ -2,9 +2,13 @@
 # My first Git repo
 
 ## My first Git repo
-<img width="1920" height="960" alt="Снимок" src="https://github.com/user-attachments/assets/e87d1f05-cced-4fda-8378-01757cf12a6b" (https://github.com/rustammagomedovv41-oss/first-project.git) />
+<img width="1920" height="960" alt="Снимок" src="https://github.com/user-attachments/assets/e87d1f05-cced-4fda-8378-01757cf12a6b" (https://github.com/rustammagomedovv41-oss/first-project.git") />
 # My first Git repo
 ### My first Git repo
+
+|Name |URL |Logo
+|-:   |-:  |-:
+|React|src="https://github.com/user-attachments/assets/e87d1f05-cced-4fda-8378-01757cf12a6b" (https://github.com/rustammagomedovv41-oss/first-project.git| img src="https://github.com/user-attachments/assets/e87d1f05-cced-4fda-8378-01757cf12a6b" (https://github.com/rustammagomedovv41-oss/first-project.git" width="50" />
 <!DOCTYPE html>
 <html lang="ru">
 <head>
@@ -20,7 +24,7 @@
 
 - [x] Add changelog
 - [x] Add back to top links
-- [ ] Add Additional Templates
+<-- - [ ] Add Additional Templates... --> 
       
   * About the project
   
